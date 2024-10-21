@@ -1,5 +1,0 @@
-
-
-
-# bonus
-  - text representation -> json ?
