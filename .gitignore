@@ -1,0 +1,11 @@
+.vs
+GraphLib.sln
+GraphLib/AdjacencyMatrix.cs
+GraphLib/GraphLib.csproj
+GraphLib/IGraph.cs
+GraphLib/PriorityQueue.cs
+GraphLib/bin/
+GraphLib/obj/
+TestAppProject/TestAppProject.csproj
+TestAppProject/bin/
+TestAppProject/obj/
