@@ -16,5 +16,7 @@
     a[3, 4] = 1;
     a[3, 6] = 1;
 
+    a[2, 4] = 5;
+
     Console.WriteLine(a);
 }
